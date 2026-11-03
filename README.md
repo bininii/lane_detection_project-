@@ -20,7 +20,12 @@
 ## 💻 실행 결과 (Result)
 > 아래와 같이 정상 주행 시에는 초록색 영역과 `Safe` 상태가 표시되며, 차선 이탈 및 변경 시에는 경고 문구가 출력됩니다.
 
-![Lane Detection Result](lane_result.gif)
+<img width="478" height="270" alt="output_lane_result2" src="https://github.com/user-attachments/assets/803791c0-8d26-445a-83dd-63d24ad1afec" />
+
+<img width="2672" height="1426" alt="safe_driving" src="https://github.com/user-attachments/assets/e7359590-e35f-44cc-9347-263535279f91" />
+
+<img width="2642" height="1420" alt="right_lane" src="https://github.com/user-attachments/assets/d74087b8-6a78-409a-b11a-51c52b6274d4" />
+
 
 ---
 
